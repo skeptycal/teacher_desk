@@ -29,7 +29,7 @@ twitter_username: skeptycal
 github_username:  skeptycal
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
