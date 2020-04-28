@@ -8,12 +8,7 @@
 .coveragerc
 .coveralls.yml
 .pre-commit-config.yaml
-.pylintrc
 .travis.yml
-pyproject.toml
-pytest.ini
-toxx.ini
-toxxcov.ini
 
 # Python dev files
 .gitconfig
