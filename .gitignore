@@ -12,8 +12,8 @@
 .travis.yml
 pyproject.toml
 pytest.ini
-tox.ini
-toxcov.ini
+toxx.ini
+toxxcov.ini
 
 # Python dev files
 .gitconfig
