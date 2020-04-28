@@ -1,0 +1,44 @@
+# Project-specific files
+**/*egg-info
+# general ignore files
+*private*
+*bak*
+
+# Python repo files
+.coveragerc
+.coveralls.yml
+.pre-commit-config.yaml
+.pylintrc
+.travis.yml
+pyproject.toml
+pytest.ini
+tox.ini
+toxcov.ini
+
+# Python dev files
+.gitconfig
+.gitmodules
+.git
+**.mypy_cache/
+**.pytest_cache/
+**.vscode/
+**dist-info/
+**egg-info/
+
+# Python build files
+*.py[cod]
+*.egg-ignore
+*.egg-info
+__pycache__/
+build/
+dist/
+env/
+
+# security
+.pypirc
+*history*
+*hist*
+config.py
+config.json
+sftp.json
+*/*.key

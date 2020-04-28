@@ -1,0 +1,13 @@
+include .coveragerc
+include CHANGES.yml
+include CODE_OF_CONDUCT.md
+include LICENSE
+include poetry.lock
+include pyproject.toml
+include pytest.ini
+include README.md
+include setup.cfg
+include setup.py
+include setup.sh
+include tox.ini
+include toxcov.ini
